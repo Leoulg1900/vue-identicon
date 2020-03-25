@@ -6,7 +6,7 @@
     </div>
     <div>
       output:
-      <div v-html="identicon"></div>
+      <div v-html="identicons"></div>
     </div>
   </div>
 </template>
